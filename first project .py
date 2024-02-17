@@ -1,0 +1,5 @@
+print("my name is Muskan")
+print("HELLO WORLD","YOU ARE MOST BEAUTIFUL LADY I HAVE EVER SEEN")
+print(33)
+print(35)
+print(33+55)
